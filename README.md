@@ -37,3 +37,17 @@ In this Project I am going to explore following questions :
     Question 8: What is the Average Budget of the movies?
     Question 9: What is the Average Revenue earned by the movies?
     Question 10: What is the Average duration of the movies
+    
+Final Conclusions:
+
+This was a very interesting data analysis. We came out with some very interesting facts about
+movies. After this analysis we can conclude following:
+
+**For a Movie to be in successful criteria**
+     Average Budget must be around 60 million dollar
+     Average duration of the movie must be 113 minutes (1 hr 53min)
+     Profits: profits has positive relationship with budget and popularity
+     Any one of these should be in the cast: Robert De Niro , Bruce Willis, Sylvester
+      Stallone, Samuel L. Jackson
+     Genre must be: Comedy, Drama. Action, Thriller.
+     Director must be: Steven Spielberg, Clint Eastwood, Ridley Scott, and Woody Allen.
