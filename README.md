@@ -1,5 +1,5 @@
 # Udacity- Data Analyst Nanodegree 
-Project 2 - Investigate_data_on_TMDb_Movies
+Project 2 :- Investigate_data_on_TMDb_Movies
 Working on ( TMDb Dataset )
 
 
@@ -45,12 +45,12 @@ movies. After this analysis we can conclude following:
 
 **For a Movie to be in successful criteria**
 
-     Average Budget must be around 60 million dollar
-     Average duration of the movie must be 113 minutes (1 hr 53min)
-     Profits: profits has positive relationship with budget and popularity
-     Any one of these should be in the cast: Robert De Niro , Bruce Willis, Sylvester
+    - Average Budget must be around 60 million dollar
+    - Average duration of the movie must be 113 minutes (1 hr 53min)
+    - Profits: profits has positive relationship with budget and popularity
+    - Any one of these should be in the cast: Robert De Niro , Bruce Willis, Sylvester
       Stallone, Samuel L. Jackson.
-     Genre must be: Comedy, Drama. Action, Thriller.
-     Director must be: Steven Spielberg, Clint Eastwood, Ridley Scott, and Woody Allen.
+    - Genre must be: Comedy, Drama. Action, Thriller.
+    - Director must be: Steven Spielberg, Clint Eastwood, Ridley Scott, and Woody Allen.
     
 
